@@ -45,7 +45,7 @@ export default function Home() {
                         Cooming Soon
                     </span>
                 </div>
-                <p className="mt-10 text-gray-400 text-sm">Made with Love in Austria</p>
+                <p className="mt-10 text-gray-400 text-sm">Made with a 💻 and ❤️ in Austria</p>
             </div>
         </div>
       </div>
